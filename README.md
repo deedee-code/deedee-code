@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/deedee-code](https://github.com/deedee-code)
 
-- 💬 Ask me about **JavaScript, TypeScript**
+- 💬 Ask me about **ExpressJs, TypeScript**
 
 - 📫 How to reach me **deedeeowoeye@gmail.com**
 
