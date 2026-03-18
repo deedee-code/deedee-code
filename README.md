@@ -38,9 +38,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=deedee-code&theme=merko&radius=10" alt="deedee-code's Activity Graph" />
 </p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -75,3 +72,4 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
+
