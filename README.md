@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - 🔭 I’m currently working on building scalable full-stack applications, managing cloud infrastructure, exploring AI integration, and creating web automation tools.
 - 👯 I’m looking to collaborate on open-source projects, backend architecture, AI-driven applications, and Web3 initiatives.
