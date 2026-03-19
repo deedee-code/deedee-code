@@ -24,17 +24,20 @@
 
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/deedee-code">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deedee-code&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="deedee-code's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deedee-code&show_icons=true&theme=merko&border_radius=10&cache_seconds=1800" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=deedee-code&theme=merko&hide_border=true&cache_seconds=86400" alt="deedee-code's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=deedee-code&theme=merko&hide_border=true&cache_seconds=1800" width="49%" />
 </p>
+
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=deedee-code&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Doris Owoeye's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deedee-code&theme=merko&no-frame=true&no-bg=true&margin-w=8" />
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=deedee-code&theme=merko&radius=10" alt="deedee-code's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=deedee-code&theme=merko&radius=10" />
 </p>
 
 
