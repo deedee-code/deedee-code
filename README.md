@@ -42,7 +42,6 @@ currently:
   - 🔨 Building: Scalable full-stack apps + AI-powered tooling
   - 🌐 Exploring: Advanced Solidity patterns & smart contract security
   - 🤝 Open to: Open-source collabs, backend architecture, Web3 projects
-  - 📍 Based in: Nigeria
 ```
 
 ---
@@ -52,7 +51,7 @@ currently:
 <td width="50%">
 
 **🖥️ Full-Stack Engineering**
-Building end-to-end applications with React, Next.js, Node.js (Express/NestJS), Python, Java & TypeScript. RESTful API design that's clean, documented, and developer-friendly.
+Building end-to-end applications with React, Next.js, Node.js (Express/NestJS), Python, and TypeScript. RESTful API design that's clean, documented, and developer-friendly.
 
 **☁️ Cloud & DevOps**
 Managing cloud environments on AWS & GCP. Containerisation with Docker. Deploying resilient, scalable architectures.
@@ -77,7 +76,6 @@ Bringing AI models into real-world applications — from automation pipelines to
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
 **Frontend**
@@ -91,7 +89,6 @@ Bringing AI models into real-world applications — from automation pipelines to
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 **Databases**
 
