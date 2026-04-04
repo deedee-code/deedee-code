@@ -33,8 +33,6 @@
 
 ---
 
-## `$ whoami`
-
 > I build things that scale — from elegant UIs to distributed cloud systems, from RESTful APIs to smart contracts on-chain.
 
 I'm a **Full-Stack Software Engineer** with a deep interest in the intersection of **cloud infrastructure**, **Web3**, and **AI**. I thrive on architecting systems that are clean, performant, and built to last. Whether it's shipping a production React app, deploying containerised microservices, or writing Solidity contracts — I'm all in.
@@ -48,8 +46,6 @@ currently:
 ```
 
 ---
-
-## `$ ls ./expertise`
 
 <table>
 <tr>
@@ -75,8 +71,6 @@ Bringing AI models into real-world applications — from automation pipelines to
 </table>
 
 ---
-
-## `$ cat ./stack.json`
 
 **Languages**
 
@@ -122,8 +116,6 @@ Bringing AI models into real-world applications — from automation pipelines to
 
 ---
 
-## `$ git log --stat`
-
 <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=deedee-code&show_icons=true&theme=merko&border_radius=10&hide_border=true&cache_seconds=1800" />
@@ -141,8 +133,6 @@ Bringing AI models into real-world applications — from automation pipelines to
 </div>
 
 ---
-
-## `$ ping ./connect`
 
 <div align="center">
 
