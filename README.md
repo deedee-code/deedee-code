@@ -114,13 +114,16 @@ Bringing AI models into real-world applications — from automation pipelines to
 ---
 
 <div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=deedee-code&show_icons=true&theme=merko&border_radius=10&hide_border=true&count_private=true&include_all_commits=true" />
+
+<!-- Stats card via github-stats alternative -->
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deedee-code&theme=merko" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deedee-code&layout=compact&theme=merko&border_radius=10&hide_border=true&langs_count=8" />
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deedee-code&theme=merko" />
 <br/>
 <img src="https://streak-stats.demolab.com?user=deedee-code&theme=merko&hide_border=true&dates=true&cache_seconds=3600" width="60%" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deedee-code&theme=merko&radius=10&hide_border=true&area=true" width="90%" />
+
 </div>
 
 ---
